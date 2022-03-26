@@ -1,0 +1,24 @@
+{
+  "name": "discord-js-handler-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "noxivoid",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.5.3",
+    "ascii-table": "0.0.9",
+    "discord.js": "^12.5.1",
+    "distube": "^2.8.18",
+    "ffmpeg-static": "^4.4.0",
+    "spotify-url-info": "^2.2.3"
+  },
+  "devDependencies": {
+    "ascii-table": "0.0.9",
+    "colors": "^1.4.0"
+  }
+}
